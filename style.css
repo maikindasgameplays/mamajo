@@ -5,6 +5,9 @@
 }
 /* criando um site */
 body{
-    background-color:var(--cor-de-fundo)
+    background-color:var(--cor-de-fundo);
     color: var(--texto);
+}
+img{
+    width: 50px; ;
 }
