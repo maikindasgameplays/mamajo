@@ -3,6 +3,7 @@
     --texto: #000000;
 
 }
+/* criando um site */
 body{
     background-color:var(--cor-de-fundo)
     color: var(--texto);
