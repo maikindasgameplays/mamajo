@@ -8,6 +8,10 @@ body{
     background-color:var(--cor-de-fundo);
     color: var(--texto);
 }
-img{
+.img-intro{
     width: 500px;
+}
+
+.intro {
+    display: flex;
 }
