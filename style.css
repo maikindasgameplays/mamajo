@@ -27,10 +27,10 @@ body{
     
     .intro {
         display: flex;
-        align-items: column;
+        align-items:center;
         justify-content: center;
         align-content: center;
         flex-wrap: wrap;
         flex-direction: column;
     }
-  }
+}
