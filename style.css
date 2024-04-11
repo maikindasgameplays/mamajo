@@ -21,4 +21,16 @@ body{
     flex-direction: column;
 }
   header{
+    .img-intro{
+        width: 500px;
+    }
+    
+    .intro {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
   }
