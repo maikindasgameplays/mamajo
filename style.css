@@ -21,10 +21,6 @@ body{
     flex-direction: column;
 }
   header{
-    .img-intro{
-        width: 500px;
-    }
-    
     .intro {
         display: flex;
         align-items:center;
