@@ -21,9 +21,10 @@ body{
     flex-direction: column;
 }
 
-.equipe{
+.Equipe{
     display: grid;
-    grid-template-columns: 33% 33% 33%
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
 }
 
 .foto-equipe{
