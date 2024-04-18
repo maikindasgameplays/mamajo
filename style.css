@@ -30,3 +30,8 @@ body{
 .foto-equipe{
     width: 40%;
 }
+
+a{
+color: black;
+text-decoration-color: none;
+}
